@@ -9,7 +9,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="bg-gray-800 text-white p-4 fixed w-full z-10 shadow-md">
+    <nav className="bg-gray-800 text-white p-4  w-full z-10 shadow-md">
       <div className="container mx-auto flex justify-between items-center">
         {/* Logo */}
         <div className="text-2xl font-bold">ShopCart</div>
